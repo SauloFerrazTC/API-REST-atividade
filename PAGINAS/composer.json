@@ -1,0 +1,11 @@
+{
+    
+    "autoload": {
+        "psr-4": {
+            "Views\\" : "src/View",
+            "Connection\\" : "src/Connection",
+            "Controller\\" : "src/Controller" 
+        }
+    }
+  
+}
